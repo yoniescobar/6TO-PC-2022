@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #4a465b;
+    font-size: 16px;
+
+}
+
+.contenedor{
+  width: 1000px;
+  margin: 20px auto;
+  text-align: center a;
+}
+
+
+header{
+    background-color: aquamarine;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: #22ce13;
+   
+} 
+
+
+nav a{
+    color: black;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+aside{
+    flex:30px;
+    background-color: beige;
+    padding: 20x;
+}

@@ -1,0 +1,27 @@
+*{
+   text-align: center;
+   color: chartreuse;
+}
+
+body{
+   background-color: rgb(0, 0, 0);
+}
+
+
+
+
+h1, p{ /*agrupar los selectores*/
+    color: Orange;
+    background-color: rgba(247, 242, 0, 0.3);
+}
+
+.parrafoDos{
+    color: rgb(255, 255, 255);
+
+   
+}
+
+.azul{
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 43, 160);
+}
