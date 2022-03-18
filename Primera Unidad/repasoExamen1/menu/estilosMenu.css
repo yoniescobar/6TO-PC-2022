@@ -1,0 +1,35 @@
+body{
+
+    font-family: 'Noto Serif', serif;
+    background-color: #e8e8e8;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: #092327;
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+}
+
+.menu li{
+    display: inline-block;
+}
+.menu li a{
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+}
+.menu li a:hover{
+    background: #f81504 ;
+  
+}
+
+
+@media  screen and (max-width: 600px) {
+    .menu li{
+        display: block;
+    }
+  }

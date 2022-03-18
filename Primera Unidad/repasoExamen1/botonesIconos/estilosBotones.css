@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+.btn{
+    background: #7f8c8d;
+    color: #fff;
+    display: inline-block;
+    font-size: 18px;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+    text-decoration: none;
+    box-shadow: 5px 3px 4px #6507df ;
+}
+
+.btn span{
+    margin-right: 10px;
+}
