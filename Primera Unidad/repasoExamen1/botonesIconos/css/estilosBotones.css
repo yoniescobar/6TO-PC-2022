@@ -4,16 +4,16 @@
 }
 
 .btn{
-    background: #7f8c8d;
+    background: #fd7e14;
     color: #fff;
     display: inline-block;
-    font-size: 18px;
+    font-size: 32px;
     margin: 20px;
     padding: 10px;
     text-align: center;
-    width: 200px;
+    width: 400px;
     text-decoration: none;
-    box-shadow: 5px 3px 4px #6507df ;
+    box-shadow: 5px 3px 4px #666468 ;
 }
 
 .btn span{
